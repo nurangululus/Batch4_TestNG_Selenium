@@ -1,0 +1,6 @@
+Hello World!
+
+SDET class is here
+
+C:\Users\tosun\IdeaProjects\KT_Batch4_TestNG_Selenium/src/test/resources/Selenium File Upload.txt
+C:\Users\tosun\IdeaProjects\KT_Batch4_TestNG_Selenium/src/test/resources/Selenium File Upload.txt

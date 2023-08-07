@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52109f58-e65c-44e4-9993-e093ec2c94bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comfiguration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/regression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoke.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/krafttechnologie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Selenium File Upload.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/pages/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/pages/EditProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/pages/UserProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day01_automationintro/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day02_webdriver_basics/CallWebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day02_webdriver_basics/CloseAndQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day02_webdriver_basics/GetTitleAndGetUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day02_webdriver_basics/NavigationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day03_webelement_intro/GetAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day03_webelement_intro/VerifyUrlChanged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day03_webelement_intro/VerifyUrlIsNotChanged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day03_webelement_intro/VerifyUserNameIsCorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/BasicLocatorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/ClassNameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/IdLocatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/LinkTextAndPartialLinkText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/NameDublicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/NameLocatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day04_basic_locators/TagNameLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/AbsoluteXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/RelativeXpath1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/RelativeXpath2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/RelativeXpath3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/RelativeXpath4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day05_xpath/RelativeXpath5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_AttributeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_EndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_MultibleAttributeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_ParentToChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_Sibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day06_css/Css_StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day07_testNG_intro/BeforeAfterMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day07_testNG_intro/FirstTestNGTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day07_testNG_intro/TestNGAnnotationsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day08_typeOfWebElements/AttributeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day08_typeOfWebElements/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day08_typeOfWebElements/DisabledElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day08_typeOfWebElements/DisplayedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day08_typeOfWebElements/radioButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day09_findElements_dropdowns/DropDownWithSelectTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day09_findElements_dropdowns/ListOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day09_findElements_dropdowns/dropDownWithoutSelectTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day10_alerts_multiplewindows_iframe/Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day10_alerts_multiplewindows_iframe/JSPopUps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day10_alerts_multiplewindows_iframe/MultipleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day10_alerts_multiplewindows_iframe/Nested_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day10_alerts_multiplewindows_iframe/htmlPopUps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day11_waits/ExplicitWaitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day11_waits/ImplicitWaitExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day11_waits/ThreadSleepExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day12_action_JS_FileUpload/ActionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day12_action_JS_FileUpload/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day12_action_JS_FileUpload/JavaScriptExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day13_Webtables/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day14_properties_singleton/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day14_properties_singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day14_properties_singleton/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day14_properties_singleton/logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day15_pom1/NegativeLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day15_pom1/PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day16_pom2/DashboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day17_pom3/DashboardTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day17_pom3/EditProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day18_ExtendReports/ExtendReportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day18_ExtendReports/PositiveLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day18_ExtendReports/WrongUsernameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day19_xml_runners/VerifyUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day20_ddf/DataProvider_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day20_ddf/DataProvider_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day20_ddf/ExcelUtilDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/utilities/ExcelUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/kraftechnologie/utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNGXmlRunner.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QqMP1QBIYS7JQaz6RvzBw20q8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\Batch4_TestNG_Selenium\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DataProvider_Demo">
+    <configuration name="C:/Users/Admin/IdeaProjects/Batch4_TestNG_Selenium/testNGXmlRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch4_TestNG_Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNGXmlRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvider_Demo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch4_TestNG_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kraftechnologie.tests.day20_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kraftechnologie.tests.day20_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.kraftechnologie.tests.day20_ddf.DataProvider_Demo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtilDemo.readExcelFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch4_TestNG_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kraftechnologie.tests.day20_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kraftechnologie.tests.day20_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.kraftechnologie.tests.day20_ddf.ExcelUtilDemo" />
+      <option name="METHOD_NAME" value="readExcelFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelUtilDemo.readExelFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch4_TestNG_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kraftechnologie.tests.day20_ddf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kraftechnologie.tests.day20_ddf" />
+      <option name="MAIN_CLASS_NAME" value="com.kraftechnologie.tests.day20_ddf.ExcelUtilDemo" />
+      <option name="METHOD_NAME" value="readExelFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyUserInfo.verifyUserInfoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Batch4_TestNG_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kraftechnologie.tests.day19_xml_runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kraftechnologie.tests.day19_xml_runners" />
+      <option name="MAIN_CLASS_NAME" value="com.kraftechnologie.tests.day19_xml_runners.VerifyUserInfo" />
+      <option name="METHOD_NAME" value="verifyUserInfoTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataProvider_Demo" />
+        <item itemvalue="TestNG.ExcelUtilDemo.readExcelFile" />
+        <item itemvalue="TestNG.ExcelUtilDemo.readExelFile" />
+        <item itemvalue="TestNG.C:/Users/Admin/IdeaProjects/Batch4_TestNG_Selenium/testNGXmlRunner.xml" />
+        <item itemvalue="TestNG.VerifyUserInfo.verifyUserInfoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52109f58-e65c-44e4-9993-e093ec2c94bf" name="Changes" comment="" />
+      <created>1686076637948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686076637948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kraftechnologie/tests/day14_properties_singleton/Singleton.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
